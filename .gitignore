@@ -1,0 +1,6 @@
+myvenv/ 
+.env 
+data/ 
+__pycache__/ 
+*.pdf 
+tests/ 

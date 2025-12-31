@@ -1,0 +1,20 @@
+# Core dependencies
+langchain
+langchain-community
+chromadb
+langchain-chroma
+sentence-transformers
+arxiv
+pypdf2
+python-dotenv
+pymupdf
+langchain-ollama
+langchain-openai
+
+# Web framework
+fastapi
+uvicorn
+streamlit
+
+openai
+requests

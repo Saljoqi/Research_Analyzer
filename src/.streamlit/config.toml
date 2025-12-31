@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00d4ff"            # Vibrant Blue for buttons/actions
+backgroundColor = "#020617"         # Deep Black/Midnight for the main area
+secondaryBackgroundColor = "#1e293b" # Dark Blue-Gray for sidebar and cards
+textColor = "#f1f5f9"               # Crisp Off-White for readability
+font = "sans serif"
